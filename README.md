@@ -9,4 +9,4 @@ Aplikasi Jadwal Kuliah
 
     implementation 'de.hdodenhof:circleimageview:3.0.0'
     implementation 'com.squareup.picasso:picasso:2.71828
-# Untuk Menyelesaikan Tugas Mobile Programming
+# Untuk Menyelesaikan Tugas UAS Mobile Programming
